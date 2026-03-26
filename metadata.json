@@ -1,0 +1,5 @@
+{
+  "name": "中国农历万年历React",
+  "description": "一个功能丰富的中国农历万年历，支持中国、巴西、美国节假日显示，并能计算生日的公历农历重合年份。",
+  "requestFramePermissions": []
+}
